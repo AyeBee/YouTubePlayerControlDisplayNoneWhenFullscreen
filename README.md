@@ -1,0 +1,3 @@
+# YouTubePlayerControlDisplayNoneWhenFullscreen
+
+YouTubeフルスクリーン中にコントローラーを非表示にするユーザースクリプトです。
