@@ -5,6 +5,7 @@
 // @description  YouTubeフルスクリーン中にコントローラーを非表示にする
 // @author       ayebee
 // @match        https://www.youtube.com/watch*
+// @match        https://www.youtube.com/live/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
 // @grant        none
 // @run-at       document-idle
